@@ -1,0 +1,35 @@
+appointments: []
+medications: []
+users:
+- created_at: '2026-01-30T23:58:56.339786'
+  email: omkar123@gmail.com
+  id: 1
+  last_login: '2026-01-30T23:58:56.353500'
+  password: Omkar@123
+  patient_data:
+    age: 1
+    disease: Asthma
+    doctor_email: doc
+    family_contacts:
+    - father - 8956412314, father@gmail.com
+    medication: XYZ
+    name: OMKAR
+    saved_at: '2026-01-31 00:01:54'
+    updated_at: '2026-01-31T00:01:54.385206'
+  username: Omkar
+- created_at: '2026-01-31T10:47:15.957695'
+  email: raj123@gmail.com
+  id: 2
+  last_login: '2026-01-31T10:47:15.979352'
+  password: Raj@1234
+  patient_data:
+    age: 1
+    disease: Cancer
+    doctor_email: wuiefhweuf
+    family_contacts:
+    - eifhwrkj - 9588652212, xyz@gmail.com
+    medication: ajc
+    name: RAHUL
+    saved_at: '2026-01-31 10:47:57'
+    updated_at: '2026-01-31T10:47:57.797441'
+  username: RAJ
